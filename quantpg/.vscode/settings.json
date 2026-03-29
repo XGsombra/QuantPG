@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/home/xiaocai/QuantPG/quantpg/.venv/bin/python3",
+    "jupyter.kernelSpecFinderPython": "/home/xiaocai/QuantPG/quantpg/.venv/bin/python3"
+}
